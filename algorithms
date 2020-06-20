@@ -1,0 +1,128 @@
+# Algorithms
+
+0. Mathematics{
+    1. gcd;+
+    2. egcd;+
+    3. modular-linear-equation-solver || msolve;+
+    4. linear-diphontine-equation-solver  || ldiph;+
+    5. Modular Inverse;+
+    6. modpow;+
+    7. sieve-of-eratosthenes;+
+    8. isprime;+
+    9. factor;+
+    10. phi;+
+    11. divisor;+
+    12. continued-fraction;
+}
+1. pattern-searching{
+	1. naive-algorithm;+
+	2. KMP;+
+	3. Rabin-Karp;+
+  4. z-zlgorithm+
+	5. Aho-Corasick;+
+	6. suffix-data-structures;+
+	7. Boyer-Moore;+
+  8. Two-way string matching algorithm
+  9. Raita-algorithm
+  10. Commentx-Walter algorithm
+  11. Bitap-algorithm
+  12. BNDM(Backward Non-Deterministic DAWG matching (fuzzy + regex; nrgrep))
+  13. BOM(Backward Oracle Matching)
+  14. FM-index
+  15. set-BOM(extension of BOM)
+  16. Apostololico-Giancarlo algorithm(variant of #7)
+  17. Boyer-Moore-Horspool-algorithm+
+  18. Levenshtein automaton
+  19. Zhu-Takaoka algorithm
+  20. string matching using bitset;
+}
+
+
+2. Dynamic-programming{
+    1.knapsack-problem{
+      1. 0/1 knapsack problem;+
+      2. Number partioning;+
+      3. Bounded Knapsack;+
+      4. Unbounded Knapsack;+
+      5. Subset sum problem;+
+      6. Change making problem;+
+      7. Multiple Knapsack problem;+
+      8. Bin packing problem;+
+    }
+
+    coin-changing-problem;+
+    longest-increasing-subsequence;+
+    longest-common-substring;+
+    subset-sum-problem;+
+    staircase-problem;+
+    longest palindromic substring;+
+    partition a set into two equal-sum subsets;+
+}
+
+3. Range-Query-problems{
+    1. naive-algorithms;+
+    2. square-root-decomposition;+
+    3. segment-tree;+
+    4. Fenwick-tree;+
+    5. Sparse-tree;+
+    6. cartesina tree and Farach-Colton Bender algorithm;+
+    7. Mo's algorithm+
+}
+
+4. Graph-algorithms{
+      shortest-path{
+        A*;+
+        bellman-ford;+
+        floyd-warshall;+
+      }
+
+
+}
+5. Number-theoriotic-algorithms{
+        
+}
+
+6. Bit-Manipulation-problems{
+    1. range-or;+
+    2. range-and;+
+    3. range-xor;+
+    4. binary-exponentiation;+
+}
+
+7. palindromes{
+    1. Manachers Algorithm;+
+    2. 
+}
+8. Bit-Algorithms/problems{
+    1. Find the element that appears once;
+    2. detect opposite signs;
+    3. set bits in all numbers from 1 to n;
+    4. swap bits;
+    5. add two numbers;
+    6. smallest of three;
+    7. A boolean array puzzle;
+    8. set bits in an bit array;
+    9. Next Higher number with the same number of set bits;
+    10. Optimization Techinique;
+    11. Add 1 to a number;
+    12. multiply with 3.5;
+    13. turn off the rightmost set bit;
+    14. check for power of 4;
+    15. absolute value without branching;
+    16. Modulus division by a power of 2 number;
+    17. minimum or maximum of two integers;
+    18. rotate bits;
+    19. find the two non repeating numbers in the array;
+    20. Number occuring odd number of times;
+    21. Check for integer overflow;
+    22. Number of bits to be fliped to convert a to b;
+    23. next power of 2;
+    24. check if a number if multiple of 3;
+    25. find parity;
+    26. multiplyby 7;
+    27. find whether a no is power of 2;
+    28. position of rightmost set bit;
+    29. binary representation of a number;
+    30. swap all odd odd and even bits;
+    31. 3
+}

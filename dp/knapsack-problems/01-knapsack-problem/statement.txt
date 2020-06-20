@@ -1,0 +1,6 @@
+Given a set of N items, each item i associated with weight w[i] and profit p[i],
+calculate the maximum profit sum P possible without exceeding the weight capacity W.
+
+also, find the A subset of the items which maximizes the profit sum without exceeding the weight capacity W.
+The subset is usually given by a git vector s of size N where s[i] = 1 represent that item i is included in the knapsack. (Hence the name 0/1 knapsack)
+

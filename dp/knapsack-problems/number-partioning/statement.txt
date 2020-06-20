@@ -1,0 +1,15 @@
+Partition a set containing N integers, into two sets s1, s2, so that |sum(l1)-sum(l2)| is minimised.
+
+This problem is perhaps even more general than 0/1 knapsack problem and is considered by Garey and Johnsons as one of the six basic NP-hard problems that lie at 
+the heart of NP-completeness theory.
+It has applications in multiprocessor scheduling, VLSI layout, and perhaps most famously, public kay cryptography.
+
+In Programming contests, the problem sometimes shows up in the form of children picking sides in a ball game that the game is fair.
+
+Input:
+   A set of integers, S;
+
+output: 
+  For each integer i in s, a 0, 1 indicating which side of the patition it is on.
+
+

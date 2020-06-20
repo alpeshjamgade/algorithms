@@ -1,0 +1,9 @@
+Instead of N items (as in 0/1 knapsack problem), you are given M types of items,  each type having a bounded quantity.
+
+Input:
+   some set of M types of items, each item type m having bounded quantity q[m] and associated with weight w[m] and profit p[m]/
+   A maximum weight W.
+
+output:
+  The amount of each type of item should be included in the knapsack to maximize profit sum without exceeding weight capacity W and subject to the bounded quantiy the
+  bounded quantity for each item type.

@@ -1,0 +1,24 @@
+1. Elementary-DS
+    {
+      array;
+      stack;
+      queue;
+      string;
+      heap;
+      hash;
+      linked-list;
+      binary tree
+      binary search tree
+      graph;
+      matrix;
+    }
+
+2. ADS
+    {
+      Binary Indexed Tree or Fenwick Tree;
+      Segment Tree (RMQ,  Range sum, Lazy propogation);
+      K-D tree;
+      union and disjoint sets;
+      Tries;
+      Interval Tree;
+    }
